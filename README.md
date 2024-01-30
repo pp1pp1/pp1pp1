@@ -2,6 +2,8 @@
 호서대학교 정보통신공학부 학사 <br>
 국비 지원 교육 수강중
 
+네이버 블로그 : https://blog.naver.com/dbwjdals234
+
 ## 기술 스택
 <div align = "center">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
