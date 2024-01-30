@@ -17,7 +17,7 @@
 
  <br>
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
- <img src="https://img.shields.io/badge/#276DC3?style=for-the-badge&logo=R&logoColor=white">
+ <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
  
 </div>
 
